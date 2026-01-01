@@ -95,19 +95,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KevinPanchal2444&show_icons=true&theme=tokyonight&hide_border=true" alt="Kevin's GitHub Stats" />
-</div>
-
----
-
-## ✍️ Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
-
----
-
 ## 📫 Contact Me
 
 📧 Email: [kevinpanchal2004@gmail.com](mailto:kevinpanchal2004@gmail.com)  
